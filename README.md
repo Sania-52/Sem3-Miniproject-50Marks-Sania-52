@@ -19,3 +19,11 @@ FEATURES:
 4) Creates a new CSV file everyday for attendance and marks attendance with proper date and time.
 5) Displays live attendance updates for the day on the main screen in tabular format with Id, name, date and time.
 
+SCREENSHOTS:
+i) Main Screen- ![mainscreen](https://user-images.githubusercontent.com/101206774/215168843-c7a8727b-3b37-4b34-b8b2-d48bae5a974e.jpg)
+
+ii) Change Passwod - ![change password](https://user-images.githubusercontent.com/101206774/215168904-9561d7ea-ba37-497b-a3ed-302bf11df16d.jpg)
+
+iii) Contact Us- ![help us ](https://user-images.githubusercontent.com/101206774/215168954-4a202593-36e0-475f-bf7e-899e63eec9ab.jpg)
+
+iv) Attendance - ![Attendance Mark](https://user-images.githubusercontent.com/101206774/215169530-9e5a21e2-fc74-4095-a7e8-4343de7e1bdf.jpg)
