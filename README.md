@@ -1,5 +1,3 @@
-# Sem3-Miniproject-50Marks-Sania-52
-
 # Face_recognition_based_attendance_system
 By Sania Pimple 
 
